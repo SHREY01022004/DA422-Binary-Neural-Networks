@@ -10,5 +10,3 @@ We have implemented here a Binary Neural Network (BNN) that makes use of binariz
 
 In terms of total time taken for training, the deterministic binary version performed 28% and 42% better respectively for both the architectures. For the memory usage, the deter- ministic version performed 14% and 26% better respectively. We also compared the stochastic version of binary implemen- tation which again was able to reach state-of-art performance but also able to slightly improve the deterministic version’s memory usage and time taken for training. These results suggest that with minor trade-offs in performance, with binary neural networks, we can improve the memory and time consumption of training a neural network which is a key challenge in traditional neural networks.
 
-## Contact
-Please [reach out to me](https://www.public.asu.edu/~jgshah1/) in case of any concerns with running the codes 
