@@ -1,5 +1,3 @@
-**Please checkout our latest work,  
-[BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1]
 # BinaryConnect
 
 ## Motivations
@@ -54,5 +52,6 @@ The final test error should be around **2.15%**.
 The python scripts mnist.py, cifar10.py and svhn.py contain all the relevant hyperparameters.
 It is very straightforward to modify them.
 binary_connect.py contains the binarization function (called binarization).
+
 
 
